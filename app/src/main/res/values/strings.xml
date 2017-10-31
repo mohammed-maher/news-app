@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorldNewsApp</string>
+    <string name="no_internet_connection_message">Please Check Your Internet Connection!</string>
+</resources>
